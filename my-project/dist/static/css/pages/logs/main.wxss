@@ -1,0 +1,11 @@
+@import "/static/css/vendor.wxss";
+
+@charset "UTF-8";
+.log-list.data-v-4a685581 {
+  display: flex;
+  flex-direction: column;
+  padding: 40rpx;
+}
+.log-item.data-v-4a685581 {
+  margin: 10rpx;
+}

@@ -1,0 +1,14 @@
+@import "/static/css/vendor.wxss";
+
+@charset "UTF-8";
+.counter-warp.data-v-72101980 {
+  text-align: center;
+  margin-top: 100rpx;
+}
+.home.data-v-72101980 {
+  display: inline-block;
+  margin: 100rpx auto;
+  padding: 10rpx 20rpx;
+  color: #00f;
+  border: 2rpx solid #00f;
+}

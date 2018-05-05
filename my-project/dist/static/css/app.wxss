@@ -1,0 +1,235 @@
+
+page,
+page,
+._div,
+._span,
+applet,
+._object,
+._iframe,
+._h1,
+._h2,
+._h3,
+._h4,
+._h5,
+._h6,
+._p,
+._blockquote,
+._pre,
+._a,
+._abbr,
+acronym,
+._address,
+big,
+._cite,
+._code,
+._del,
+._dfn,
+._em,
+._img,
+._ins,
+._kbd,
+._q,
+._s,
+._samp,
+._small,
+strike,
+._strong,
+._sub,
+._sup,
+tt,
+._var,
+._b,
+._u,
+._i,
+center,
+._dl,
+._dt,
+._dd,
+._ol,
+._ul,
+._li,
+._fieldset,
+._form,
+._label,
+._legend,
+._table,
+._caption,
+._tbody,
+._tfoot,
+._thead,
+._tr,
+._th,
+._td,
+._article,
+._aside,
+._canvas,
+._details,
+._embed,
+._figure,
+._figcaption,
+._footer,
+._header,
+._menu,
+._nav,
+._output,
+._ruby,
+._section,
+._summary,
+._time,
+._mark,
+._audio,
+._video,
+._input {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font-weight: normal;
+  vertical-align: baseline;
+  outline: none;
+  -webkit-appearance: none;
+}
+._article,
+._aside,
+._details,
+._figcaption,
+._figure,
+._footer,
+._header,
+._menu,
+._nav,
+._section {
+  display: block;
+}
+page {
+  line-height: 1;
+}
+._blockquote,
+._q {
+  quotes: none;
+}
+._blockquote:before,
+._blockquote:after,
+._q:before,
+._q:after {
+  content: none;
+}
+._table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+._a {
+  color: #7e8c8d;
+  -webkit-backface-visibility: hidden;
+  text-decoration: none;
+}
+._li {
+  list-style: none;
+}
+page {
+  -webkit-text-size-adjust: none;
+  -webkit-tap-highlight-color: rgba(0,0,0,0);
+}
+._button,
+._input,
+._textarea,
+._select {
+  border: none;
+  outline: none;
+  appearance: none;
+  -moz-appearance: none;
+  -webkit-appearance: none;
+}
+._button,
+._a {
+  -webkit-tap-highlight-color: transparent;
+  cursor: pointer;
+  background-color: transparent;
+}
+.buyBtn {
+  border-radius: 0;
+}
+._button {
+  border-radius: 0;
+}
+.img_w {
+  width: 100%;
+  height: 100%;
+}
+.ratio-img {
+  width: 100%;
+}
+.head_btn {
+  width: 44rpx;
+  height: 44rpx;
+  padding-top: 10;
+}
+page {
+  font-size: 32rpx;
+  font-family: PingFangSC, helvetica neue, hiragino sans gb, arial, microsoft yahei ui, microsoft yahei, simsun, sans-serif;
+}
+.page__hd {
+  padding: 80rpx;
+}
+.page__bd {
+  padding-bottom: 80rpx;
+}
+.page__bd_spacing {
+  padding-left: 30rpx;
+  padding-right: 30rpx;
+}
+.page__ft {
+  padding-bottom: 20rpx;
+  text-align: center;
+}
+.page__title {
+  text-align: left;
+  font-size: 40rpx;
+  font-weight: 400;
+}
+.page__desc {
+  margin-top: 10rpx;
+  color: #888;
+  text-align: left;
+  font-size: 28rpx;
+}
+.text_center {
+  text-align: center;
+}
+::-webkit-scrollbar {
+  width: 0;
+  height: 0;
+  color: transparent;
+}
+.loading_box {
+  text-align: center;
+  position: absolute;
+  z-index: 1000;
+  bottom: 30rpx;
+  left: 50%;
+  transform: translateX(-50%);
+}
+.loading_fade_circle {
+  width: 300rpx;
+  height: 30rpx;
+}
+.featured_oldMoney_brand {
+  text-align: center;
+  color: #979797;
+  font-size: 20rpx;
+  line-height: 20rpx;
+  text-decoration: line-through;
+}
+.featured_newMoney_brand {
+  text-align: center;
+  color: #f1929a;
+  font-size: 24rpx;
+  line-height: 24rpx;
+}
+.loading-text {
+  color: #575757;
+  font-size: 24rpx;
+  margin-bottom: 32rpx;
+  display: block;
+  text-align: center;
+}
